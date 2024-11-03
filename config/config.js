@@ -14,9 +14,9 @@ types.setTypeParser(1114, function(stringValue){
 const databaseConfig = {
     'host': '127.0.0.1',
     'port': '5432',
-    'database': 'app',
+    'database': 'tienda',
     'user': 'postgres',
-    'password': '12345'
+    'password': '14102003'
 }
 
 
